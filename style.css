@@ -957,7 +957,7 @@ label {
 
 .main_qaestion_button_first {
     box-sizing: border-box;
-    width: 44.53%;
+    width: 285px;
     height: 59px;
     border: 1px solid #FFFFFF;
     border-radius: 5px;
@@ -981,7 +981,7 @@ label {
 }
 
 .main_qaestion_button_second {
-    width: 44.53%;
+    width: 285px;
     height: 59px;
     background: #FFFFFF;
     border-radius: 5px;
@@ -1355,13 +1355,11 @@ footer {
     }
 
     .main_qaestion_button_first {
-        width: 277px;
         height: 63px;
         margin-right: 10px;
     }
 
     .main_qaestion_button_second {
-        width: 277px;
         height: 63px;
         margin-left: 10px;
     }
@@ -1719,14 +1717,13 @@ footer {
     }
 
     .main_qaestion_button_first {
-        width: 80%;
         height: 63px;
         padding: 5px 0;
         margin: 0 0 20px;
     }
 
     .main_qaestion_button_second {
-        width: 80%;
+        margin-left: 0;
         height: 63px;
         padding: 5px 0;
     }
